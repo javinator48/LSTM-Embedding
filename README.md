@@ -2,7 +2,7 @@
 ## The below datasets are used in our experiments:
 * [Coronavirus tweets NLP - Text Classification (Consists of 7398 unique entries)](https://www.kaggle.com/datatattle/covid-19-nlp-text-classification)
 
-* [Spam Detection Dataset (consists of 5169 unique entries)](ttps://www.kaggle.com/kredy10/simple-lstm-for-text-classification/data)
+* [Spam Detection Dataset (consists of 5169 unique entries)](https://www.kaggle.com/kredy10/simple-lstm-for-text-classification/data)
 
 * [Women's E-Commerce Clothing Reviews(consists of 3798 unique entries)](https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews)
 
